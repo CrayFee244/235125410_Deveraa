@@ -1,0 +1,10 @@
+BSCRIPT01.bat
+BSCRIPT02.bat
+BSCRIPT03.bat
+BSCRIPT04.bat
+demofiles
+linuc_practice
+linux_practice
+noted.txt
+notes.txt
+Hello,Linux

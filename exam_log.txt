@@ -1,0 +1,49 @@
+    1  mkdir linuc_practice
+    2  mkdir linux_practice
+    3  cd linux_practice
+    4  touch notes.txt
+    5  ls notex.txt
+    6  ls>>notes.txt
+    7  cat notes.txt
+    8  echo "HELLO,LINUX!">notes.txt
+    9  cat notes.txt
+   10  echo "This is a practical exam">> notes.txt
+   11  cat notes.txt
+   12  head - n1 notes.txt
+   13  tail - n1 notes.txt
+   14  mkdir subdir
+   15  mv notes.txt subdir/
+   16  mv subdir practice_subdir
+   17  cp practice_subdir/notes.txt .
+   18  date
+   19  uptime
+   20  du ~
+   21  ssh -V
+   22  php -V
+   23  mysql--version
+   24  https://github.com/CrayFee244/235125410_Deveraa
+   25  gh repo clone https://github.com/CrayFee244/235125410_Devera
+   26  clear
+   27  gh repo clone https://github.com/Crayfee244/235125410_Deveraa
+   28  cd 235125410_Deveraa
+   29  ls
+   30  cd linux_practice
+   31  mb
+   32  mv
+   33  mv linux_practice
+   34  history
+   35  ls
+   36  mv
+   37  mv ~/linux_practice
+   38  history - c
+   39  ls
+   40  ls linux_practice
+   41  exkt
+   42  exit
+   43  cd 235125410_Deveraa
+   44  ls
+   45  git push origin finalexam
+   46  ls
+   47  git checjout -b finalexam
+   48  git checkout -b finalexam
+   49  history >exam_log.txt

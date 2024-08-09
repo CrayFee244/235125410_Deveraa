@@ -1,0 +1,2 @@
+HELLO,LINUX!
+This is a practical exam

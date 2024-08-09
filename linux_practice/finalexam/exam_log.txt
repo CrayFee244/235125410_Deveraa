@@ -1,0 +1,21 @@
+    1  mkdir linux_practice
+    2  s
+    3  ls
+    4  mv linuc_practice
+    5  cd linux_practice
+    6  touch notes.txt
+    7  ls >>notes.txt
+    8  cat notes.txt
+    9  echo "HELLO,LINUX!"> notes.txt
+   10  echo "This is a practical exam". >>notes.txt
+   11  head -n1 notes.txt
+   12  tail -n1 noted.txt
+   13  tail -n1 notes.txt
+   14  ls
+   15  cd finalexam
+   16  0
+   17  ls
+   18  mkdir finalexam
+   19  cd finalexam
+   20  git checkout -b finalexam
+   21  history> exam_log.txt
